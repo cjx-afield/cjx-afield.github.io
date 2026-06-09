@@ -4,10 +4,10 @@ collection: publications
 category: manuscripts
 permalink: /publication/2022-energies
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2022-09-01
+date: 2022-09-10
 venue: 'Energies'
 slidesurl: 
-paperurl: 'https://cjx-afield.github.io/files/2022-energies.pdf'
+paperurl: 'https://www.mdpi.com/1996-1073/15/18/6632'
 bibtexurl: 
 citation: 'Tingli Que, Xin Chen, Dan Guan, Qingqing Yun, Huoxin Luan, Xuechen Tang, Jinxin Cao, Zheyu Liu, Xiaobin Nie. (2022). &quot;Investigation of the Flow Intensity in an Inverted Seven-Point Well Pattern and Its Influence on the EOR Efficiency of S/P Flooding.&quot; <i>Energies</i>. 15(18).'
 ---
