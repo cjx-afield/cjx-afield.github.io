@@ -15,8 +15,8 @@ Jinxin Cao, a PhD student from China University of Petroleum (Beijing). He has l
 
 Contribution towards the Research & Development, Innovations, and Extension Activities
 ======
-1. Processing of microfluidic micro images - revealing the interface evolution laws and mechanical mechanisms in microfluidic processes based on computer vision methods, providing a fundamental guarantee for the in-depth research of "Lab on a chip".
+1. **Processing of microfluidic micro images** - revealing the interface evolution laws and mechanical mechanisms in microfluidic processes based on computer vision methods, providing a fundamental guarantee for the in-depth research of "Lab on a chip".
 1. Production series process - introduced the idea of signal processing into the field of petroleum engineering, conducting empirical mode decomposition and Hilbert-Huang transform on oil well production, revealing the reasons for changes in oil well production, and combining artificial intelligence methods to predict production. 
 1. Tight oil development - Introducing ensemble learning methods into tight oil infiltration and displacement, establishing graphs of interfacial tension, emulsification ability, and infiltration efficiency, combined with microscale fluid dynamics characteristics, forming a scale upgrade method for mining and indoor environments, and establishing a bridge between technology and application. In addition, a variable coefficient pressure conduction model for tight reservoirs was established with reference to the variable coefficient Fourier model. The calculation method for the variable coefficient and the solution method for the variable coefficient pressure conduction model were also developed.
 
-![Personal Pohot](/images/editing-talk.png)
+![Personal Pohot](images/石油工程学院-曹金鑫-生活照1.jpg)
