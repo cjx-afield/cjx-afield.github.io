@@ -7,7 +7,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2022-09-01
 venue: 'Energies'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
+paperurl: 
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Tingli Que, Xin Chen, Dan Guan, Qingqing Yun, Huoxin Luan, Xuechen Tang, Jinxin Cao, Zheyu Liu, Xiaobin Nie. (2022). &quot;Investigation of the Flow Intensity in an Inverted Seven-Point Well Pattern and Its Influence on the EOR Efficiency of S/P Flooding.&quot; <i>Energies</i>. 15(18).'
 ---
